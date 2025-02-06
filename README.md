@@ -3,6 +3,8 @@ linear correalation of 4 categories plus the combination between of each categor
 data.txt is example of data, the first four columns are the categories and the last one is the result
 the score is from 1 to 5, and it can be devided by a space or tab
 
+planning to remove ncat and catkxncatk
+
 THE RESULTS:
 1: const
 2: cat1
